@@ -1,0 +1,14 @@
+g:\users\a\documents\visual studio 2015\Projects\crowler1\crowler1\bin\Debug\crowler1.exe.config
+g:\users\a\documents\visual studio 2015\Projects\crowler1\crowler1\bin\Debug\crowler1.exe
+g:\users\a\documents\visual studio 2015\Projects\crowler1\crowler1\bin\Debug\crowler1.pdb
+g:\users\a\documents\visual studio 2015\Projects\crowler1\crowler1\bin\Debug\System.Net.Http.Extensions.dll
+g:\users\a\documents\visual studio 2015\Projects\crowler1\crowler1\bin\Debug\System.Net.Http.Primitives.dll
+g:\users\a\documents\visual studio 2015\Projects\crowler1\crowler1\bin\Debug\System.Net.Http.Extensions.xml
+g:\users\a\documents\visual studio 2015\Projects\crowler1\crowler1\bin\Debug\System.Net.Http.Primitives.xml
+g:\users\a\documents\visual studio 2015\Projects\crowler1\crowler1\obj\Debug\crowler1.csproj.App.config
+g:\users\a\documents\visual studio 2015\Projects\crowler1\crowler1\obj\Debug\crowler1.csprojResolveAssemblyReference.cache
+g:\users\a\documents\visual studio 2015\Projects\crowler1\crowler1\obj\Debug\crowler1.exe
+g:\users\a\documents\visual studio 2015\Projects\crowler1\crowler1\obj\Debug\crowler1.pdb
+g:\users\a\documents\visual studio 2015\Projects\crowler1\crowler1\bin\Debug\HtmlAgilityPack.dll
+g:\users\a\documents\visual studio 2015\Projects\crowler1\crowler1\bin\Debug\HtmlAgilityPack.pdb
+g:\users\a\documents\visual studio 2015\Projects\crowler1\crowler1\bin\Debug\HtmlAgilityPack.xml
